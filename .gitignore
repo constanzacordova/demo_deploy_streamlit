@@ -1,0 +1,8 @@
+*/__pycache__*
+*.pyc
+backend/etl/forecaster.py
+backend/etl/feriados_CL.csv
+*.xlsx
+history.csv
+test.csv
+train.csv
