@@ -19,7 +19,7 @@ def footer():
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             footer:after {
-                content:'powered by ainwater'; 
+                content:'powered by cc'; 
 	            visibility: visible;
 	            display: block;
 	            position: relative;
